@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan Sanjaya</h1>
-<h3 align="center">I'm Interested in Software Development and Digital Forensics. A Quick Learner, Creative Thinker, Problem Solver and an Efficient Worker. Skilled in System design, Programming and Problem Solving. Driven by a strong passion of acquiring new knowledge out of general curiosity. Always open to new ideas and ways to self improve.</h3>
+<h3 align="center">A Software Developer A Quick Learner, Creative Thinker, Problem Solver and an Efficient Worker. Skilled in System design, Programming and Problem Solving. Driven by a strong passion of acquiring new knowledge out of general curiosity. Always open to new ideas and ways to self improve.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylansanjaya&label=Profile%20views&color=0e75b6&style=flat" alt="dylansanjaya" /> </p>
 
